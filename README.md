@@ -1,2 +1,1 @@
-# team2
-DWNC A조
+# DWNC A조
